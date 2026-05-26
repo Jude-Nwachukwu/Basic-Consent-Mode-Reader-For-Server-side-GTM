@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/Basic-Consent-Mode-Reader-For-Server-side-GTM
+versions:
+  - sha: 4f168a0753c89aa216812dc8fbd5dbe68cbfac8d
+    changeNotes: Initial release.
